@@ -1,0 +1,11 @@
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro3\Pro3\obj\Debug\Pro3.csproj.AssemblyReference.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro3\Pro3\obj\Debug\Pro3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro3\Pro3\obj\Debug\Pro3.Form1.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro3\Pro3\obj\Debug\Pro3.Properties.Resources.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro3\Pro3\obj\Debug\Pro3.csproj.GenerateResource.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro3\Pro3\obj\Debug\Pro3.csproj.CoreCompileInputs.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro3\Pro3\bin\Debug\Pro3.exe.config
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro3\Pro3\bin\Debug\Pro3.exe
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro3\Pro3\bin\Debug\Pro3.pdb
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro3\Pro3\obj\Debug\Pro3.exe
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro3\Pro3\obj\Debug\Pro3.pdb

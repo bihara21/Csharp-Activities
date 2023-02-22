@@ -1,0 +1,12 @@
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro10\Pro10\bin\Debug\Pro10.exe.config
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro10\Pro10\bin\Debug\Pro10.exe
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro10\Pro10\bin\Debug\Pro10.pdb
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro10\Pro10\obj\Debug\Pro10.csproj.AssemblyReference.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro10\Pro10\obj\Debug\Pro10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro10\Pro10\obj\Debug\Pro10.Form1.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro10\Pro10\obj\Debug\Pro10.Form2.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro10\Pro10\obj\Debug\Pro10.Properties.Resources.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro10\Pro10\obj\Debug\Pro10.csproj.GenerateResource.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro10\Pro10\obj\Debug\Pro10.csproj.CoreCompileInputs.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro10\Pro10\obj\Debug\Pro10.exe
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro10\Pro10\obj\Debug\Pro10.pdb

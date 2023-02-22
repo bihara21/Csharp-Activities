@@ -1,0 +1,11 @@
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro7\Pro7\obj\Debug\Pro7.csproj.AssemblyReference.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro7\Pro7\obj\Debug\Pro7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro7\Pro7\obj\Debug\Pro7.Form1.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro7\Pro7\obj\Debug\Pro7.Properties.Resources.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro7\Pro7\obj\Debug\Pro7.csproj.GenerateResource.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro7\Pro7\obj\Debug\Pro7.csproj.CoreCompileInputs.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro7\Pro7\bin\Debug\Pro7.exe.config
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro7\Pro7\bin\Debug\Pro7.exe
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro7\Pro7\bin\Debug\Pro7.pdb
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro7\Pro7\obj\Debug\Pro7.exe
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro7\Pro7\obj\Debug\Pro7.pdb

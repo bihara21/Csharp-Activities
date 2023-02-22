@@ -1,0 +1,12 @@
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro9\Pro9\bin\Debug\Pro9.exe.config
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro9\Pro9\bin\Debug\Pro9.exe
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro9\Pro9\bin\Debug\Pro9.pdb
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro9\Pro9\obj\Debug\Pro9.csproj.AssemblyReference.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro9\Pro9\obj\Debug\Pro9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro9\Pro9\obj\Debug\Pro9.Form1.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro9\Pro9\obj\Debug\Pro9.Properties.Resources.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro9\Pro9\obj\Debug\Pro9.csproj.GenerateResource.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro9\Pro9\obj\Debug\Pro9.csproj.CoreCompileInputs.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro9\Pro9\obj\Debug\Pro9.exe
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro9\Pro9\obj\Debug\Pro9.pdb
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro9\Pro9\obj\Debug\Pro9.Form2.resources

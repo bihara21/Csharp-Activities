@@ -1,0 +1,13 @@
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro12\Pro12\bin\Debug\Pro12.exe.config
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro12\Pro12\bin\Debug\Pro12.exe
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro12\Pro12\bin\Debug\Pro12.pdb
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro12\Pro12\obj\Debug\Pro12.csproj.AssemblyReference.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro12\Pro12\obj\Debug\Pro12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro12\Pro12\obj\Debug\Pro12.Form1.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro12\Pro12\obj\Debug\Pro12.Properties.Resources.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro12\Pro12\obj\Debug\Pro12.csproj.GenerateResource.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro12\Pro12\obj\Debug\Pro12.csproj.CoreCompileInputs.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro12\Pro12\obj\Debug\Pro12.exe
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro12\Pro12\obj\Debug\Pro12.pdb
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro12\Pro12\obj\Debug\Pro12.Deleteform.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\Pro12\Pro12\obj\Debug\Pro12.Updateform.resources

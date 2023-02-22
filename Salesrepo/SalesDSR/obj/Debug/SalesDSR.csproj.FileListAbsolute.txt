@@ -1,0 +1,26 @@
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\SalesDSR\SalesDSR\bin\Debug\SalesDSR.exe.config
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\SalesDSR\SalesDSR\bin\Debug\SalesDSR.exe
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\SalesDSR\SalesDSR\bin\Debug\SalesDSR.pdb
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.csproj.AssemblyReference.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.Form1.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.Properties.Resources.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.csproj.GenerateResource.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.csproj.CoreCompileInputs.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.exe
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.pdb
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.Form2.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.Form3.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\20.3 4th semester\c#\SalesDSR\SalesDSR\bin\Debug\SalesDSR.exe.config
+C:\Users\Bihara Numanshi\OneDrive\Desktop\20.3 4th semester\c#\SalesDSR\SalesDSR\bin\Debug\SalesDSR.exe
+C:\Users\Bihara Numanshi\OneDrive\Desktop\20.3 4th semester\c#\SalesDSR\SalesDSR\bin\Debug\SalesDSR.pdb
+C:\Users\Bihara Numanshi\OneDrive\Desktop\20.3 4th semester\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.csproj.AssemblyReference.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\20.3 4th semester\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\20.3 4th semester\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.Form1.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\20.3 4th semester\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.Form2.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\20.3 4th semester\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.Form3.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\20.3 4th semester\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.Properties.Resources.resources
+C:\Users\Bihara Numanshi\OneDrive\Desktop\20.3 4th semester\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.csproj.GenerateResource.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\20.3 4th semester\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.csproj.CoreCompileInputs.cache
+C:\Users\Bihara Numanshi\OneDrive\Desktop\20.3 4th semester\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.exe
+C:\Users\Bihara Numanshi\OneDrive\Desktop\20.3 4th semester\c#\SalesDSR\SalesDSR\obj\Debug\SalesDSR.pdb
